@@ -1,0 +1,5 @@
+@echo off
+cd /d "%~dp0"
+set META_TOKEN=EAAQg7jyCm7MBS6vH9gPOY5L4r4xazzw28vD1SfTtwoDf7bdPoYmmdBNQOkc97c4VVpJ2WC8YtkrZAYdEvuDrLw74g5gv7zJN2UFIhzsIKEkvR78NOZBzqvHvfZBjh3ef46wZAZAXHZBXPaRLwZCisZCiK8vKR5vTYhUgrRuGg75prZB420N7fZBAXvqcUyIr1qDfT6FXVkeqo9eYUCZAywFUYthdB3t5e2wxOegG5ar
+python meta_bot.py
+pause
